@@ -1,4 +1,4 @@
-# Analysis-of-Student-Performance-with-Machine-Learning
+# Analysis of Student Performance with Machine Learning
 This repository contains a machine learning project aimed at analyzing student performance using various algorithms. The project uses student data to predict performance based on multiple attributes, leveraging machine learning models to generate predictions. The goal is to analyze the factors affecting student performance and build a predictive model that can assist in educational decisions.
 
 ## Table of Contents
